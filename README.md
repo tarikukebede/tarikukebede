@@ -3,13 +3,13 @@
 <h3 align="center">A Digital Craftsman building the web one bit at a time.</h3>
 
 <p align="center">
-💬 Ask me about **Spring Boot, Node.js, React.js
+💬 Ask me about Spring Boot, Node.js, React.js
 </p>  
 <p align="center">  
-📫 How to reach me **tarikulemma913@gmail.com
+📫 How to reach me tarikulemma913@gmail.com
 </p>
 <p align="center">  
-⚡ Fun fact **I am a Geek in love with nature and science
+⚡ Fun fact I am a Geek in love with nature and science
 </p>  
 
 
