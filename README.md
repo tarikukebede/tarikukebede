@@ -2,6 +2,16 @@
 <h1 align="center">Hi 👋, I'm Tariku Kebede</h1>
 <h3 align="center">A Digital Craftsman building the web one bit at a time.</h3>
 
+<p>
+ I am a Full Stack Software Engineer with over 5 years of commercial experience working in industries ranging from financial services to logistics and e-commerce   with individuals and companies all around the world.
+
+I would like to think of myself as a digital craftsman who fell in love with the art of problem-solving using technology. I love science and nature, and in my free time, I enjoy learning about scientific discoveries and new technologies.
+
+If you want to get in touch, find me at tarikulemma913@gmail.com
+
+cheers!
+</p>
+
 <p align="center">
 💬 Ask me about Spring Boot, Node.js, React.js
 </p>  
