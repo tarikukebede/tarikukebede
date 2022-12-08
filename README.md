@@ -35,7 +35,7 @@ cheers!
  
  #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/tarikukebede/tarikukebede/blob/main/resume.pdf)
-- :email: ipenywis@gmail.com
+- :email: tarikulemma913@gmail.com
 
 #### Github Stats
 
