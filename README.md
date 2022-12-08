@@ -14,6 +14,9 @@ cheers!
 
 :mailbox: Reach me out!
 
+[![](https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=white)](mailto:tarikulemma@gmail.com)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tariku-kebede-239a89123/)
+
 
 <ul>
  <li>💬 Ask me about Spring Boot, Node.js, React.js</li>
@@ -38,6 +41,8 @@ cheers!
 - :email: tarikulemma913@gmail.com
 
 #### Github Stats
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=tarikukebede&layout=compact"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tarikukebede&theme=dark)](https://git.io/streak-stats)
 
