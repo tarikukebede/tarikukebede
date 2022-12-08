@@ -34,7 +34,7 @@ cheers!
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  
  #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/tarikukebede/tarikukebede/blob/master/resumes/resume.pdf)
 - :email: ipenywis@gmail.com
 
 #### Github Stats
