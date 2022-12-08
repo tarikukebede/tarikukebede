@@ -42,8 +42,6 @@ cheers!
 
 #### Github Stats
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=tarikukebede&layout=compact"/>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tarikukebede&theme=dark)](https://git.io/streak-stats)
 
 #### Profile Visits 
