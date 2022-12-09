@@ -12,7 +12,7 @@ I love science and nature, and in my free time, I enjoy learning about scientifi
 cheers!
 </p>
 
-:mailbox: Reach me out!
+:mailbox: Reach out!
 
 [![](https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=white)](mailto:tarikulemma@gmail.com)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tariku-kebede-239a89123/)
@@ -36,7 +36,7 @@ cheers!
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  
- #### Bizness
+ #### Business
 - :paperclip: [My Resume/CV](https://github.com/tarikukebede/tarikukebede/blob/main/resume.pdf)
 - :email: tarikulemma913@gmail.com
 
