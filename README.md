@@ -20,7 +20,7 @@ cheers!
 
 <ul>
  <li>💬 Ask me about Spring Boot, Node.js, React.js</li>
- <li>💻 Most used line of code `git commit -m "Initial Commit"`</li>
+ <li>💻 Most used line of code <strong>git commit -m "Initial Commit"</strong></li>
  <li>📫 How to reach me tarikulemma913@gmail.com</li>
  <li>⚡ Fun fact I am a Geek in love with nature and science</li>
 </ul>
