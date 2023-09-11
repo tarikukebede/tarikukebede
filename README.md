@@ -3,7 +3,7 @@
 <h4 align="left">A Digital Craftsman building the web one bit at a time.</h3>
 
 <p>
- I am a Full Stack Software Engineer with over 5 years of commercial experience working in industries ranging from financial </br>
+ I am a Full Stack Software Engineer with over 6 years of commercial experience working in industries ranging from financial </br>
  services to logistics and e-commerce with individuals and companies all around the world.
 
 I would like to think of myself as a digital craftsman who fell in love with the art of problem-solving using technology. </br>
