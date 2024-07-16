@@ -45,7 +45,5 @@ cheers!
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tarikukebede&theme=dark)](https://git.io/streak-stats)
 
 #### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tarikukebede.tarikukebede&left_color=green&right_color=red)
 ![👁️ 👉 ](https://komarev.com/ghpvc/?username=tarikukebede)
 
