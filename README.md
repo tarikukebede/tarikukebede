@@ -46,5 +46,5 @@ cheers!
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tarikukebede.tarikukebede)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tarikukebede.tarikukebede&left_color=green&right_color=red)
 
